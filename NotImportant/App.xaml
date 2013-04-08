@@ -1,0 +1,8 @@
+﻿<Application x:Class="Proctology.Interview.CSharp.LikeStatistics.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="NotImportant\MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
